@@ -111,9 +111,7 @@ const Contacts = () => {
               <div className="heading">
                 <h2>Offices</h2>
                 <p>
-                  Donec nec justo eget felis facilisis fermentum. Aliquam
-                  porttitor mauris sit amet orci. Aenean dignissim pellentesque
-                  felis.
+               <hr />
                 </p>
               </div>
             </div>
@@ -134,9 +132,9 @@ const Contacts = () => {
                       </figure>
                       <div className="view-map-data">
                         <i className="fa-solid fa-user" />
-                        <h5>New York</h5>
+                        <h5>Healdsburg, California</h5>
                         <p>
-                          92 Greenwich St, New York, NY 10006, United States
+                          126 Mill Street, Healdsburg, CA 95448, United States
                         </p>
                         <a href="#">view map</a>
                       </div>
@@ -153,8 +151,8 @@ const Contacts = () => {
                       </figure>
                       <div className="view-map-data">
                         <i className="fa-solid fa-user" />
-                        <h5>Roma</h5>
-                        <p>Via Carlo Alberto, 26a, 00185 Roma RM, Italy</p>
+                        <h5>Irvine, California</h5>
+                        <p>18300 Von Karman Avenue Suite 640, Irvine, CA 92612, United States</p>
                         <a href="#">view map</a>
                       </div>
                     </div>
@@ -170,8 +168,25 @@ const Contacts = () => {
                       </figure>
                       <div className="view-map-data">
                         <i className="fa-solid fa-user" />
-                        <h5>Barcelona</h5>
-                        <p>d'Aragó, 284, 08009 Barcelona, Spain</p>
+                        <h5>Portland, Oregon</h5>
+                        <p>10220 SW Greenburg Road Suite 100, Tigard, OR 97223, United States</p>
+                        <a href="#">view map</a>
+                      </div>
+                    </div>
+                  </SwiperSlide>
+                   <SwiperSlide className="swiper-slide">
+                    <div className="view-map hoverstyle">
+                      <figure>
+                        <img
+                          alt="img"
+                          className="w-100"
+                          src="assets/img/view-map-3.jpg"
+                        />
+                      </figure>
+                      <div className="view-map-data">
+                        <i className="fa-solid fa-user" />
+                        <h5>Seattle, Washington</h5>
+                        <p>16040 Christensen Road Suite 110, Tukwila, WA 98188, United States</p>
                         <a href="#">view map</a>
                       </div>
                     </div>
