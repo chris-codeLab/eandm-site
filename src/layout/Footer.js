@@ -67,7 +67,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="footer-bottom">
-          <p>© 2023 Terio - All Rights Reserved | Developed by bslthemes</p>
+          <p>© 2023 EandM Demo - All Rights Reserved | Developed by Chris Mason</p>
           <ul>
             <li>
               <a href="#">
