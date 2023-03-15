@@ -15,7 +15,7 @@ const Layout = ({
   return (
     <Fragment>
       <Head>
-        <title>Terio - {pageName}</title>
+        <title>EandM - {pageName}</title>
       </Head>
       <VideoPopup />
       <ImageView />
